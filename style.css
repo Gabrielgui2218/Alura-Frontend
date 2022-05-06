@@ -1,0 +1,19 @@
+.titulo{
+    text-align: center;
+}
+#banner{
+    width: 100%;
+}
+body{
+    background-color: #cccccc;
+}
+p{
+    text-align: center;   
+}
+em strong{
+    color: #FF0000;
+}
+
+#missao{
+    font-size: 20px;
+}
